@@ -47,6 +47,6 @@ The Task main task of this week is data visualization using tableau and database
 
 ![python-sql connection](./Week-3/Connection.jpg)
 #### Task - To show all the tables in SQL Database
-[show tables](./Week-3/ShowTables.jpg)
+![show tables](./Week-3/ShowTables.jpg)
 #### Task - To use Join clause
-[using join clause](./Week-3/join.jpg)
+![using join clause](./Week-3/join.jpg)
