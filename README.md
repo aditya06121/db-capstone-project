@@ -1,12 +1,7 @@
 # db-capstone-project
 
-Table of contents:
-
-* Week 1
-* Week 2
-* Week 3
-* Week 4
 ## Week 1
+
 The task of this week is to develop a ER diagram and to write a schema using the ER diagram in MySql workbench.
 <br>
 #### Task - Setting up a new user in mysql database.
@@ -17,5 +12,12 @@ The task of this week is to develop a ER diagram and to write a schema using the
 ![ER Diagram](./Week-1/ErDiagram.png)
 #### Task - To show the database in mysql server
 ![(Database](./Week-1/Database.png)
+
+
 ## Week 2
 The main task of this week is to create a sales report and a table booking system.
+The relevent files are in the week 2 folder
+
+
+## Week 3
+The Task main task of this week is data visualization using tableau and database client using python.
